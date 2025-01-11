@@ -11,6 +11,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🔭 I’m currently working on Najahni mobile app
+
 🌱 I’m currently learning Flask
+
 💬 Ask me about Flutter
+
 📫 How to reach me: tamrawii@proton.me
