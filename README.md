@@ -10,9 +10,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Najahni mobile app
+🔭 I’m currently working on Najahni mobile app and another fullstack mobile app project
 
-🌱 I’m currently learning Flask
+🌱 I’m currently learning Django
 
 💬 Ask me about Flutter
 
