@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 -->
 🔭 I’m currently working on Najahni mobile app and another fullstack mobile app project
 
-🌱 I’m currently learning Django
+🌱 I’m currently learning Java
 
 💬 Ask me about Flutter
 
